@@ -81,10 +81,10 @@ body {
 .nav-main a[href='./index.html'],
 .nav-main a:hover,
 .nav-main a:active,
+.nav-main a:focus,
 .top-contacts a:hover,
 .top-contacts a:active,
-.top-contacts a:hover,
-.top-contacts a:active {
+.top-contacts a:focus {
   color: var(--basic-blue-color);
 }
 
